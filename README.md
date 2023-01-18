@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **REACT**
 
-- 📫 How to reach me **Email : paprisaha1999@gmail.com, Phone : +917098806571, Location: Bolpur,West Bengal**
+- 📫 How to reach me: **Email : paprisaha1999@gmail.com
+                       Phone : +917098806571, 
+                       Location: Bolpur,West Bengal**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pjLDnF_PaWvhC0Ojb8iSaEOS52JXOaJ2/view?usp=sharing](https://drive.google.com/file/d/1pjLDnF_PaWvhC0Ojb8iSaEOS52JXOaJ2/view?usp=sharing)
 
