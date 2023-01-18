@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/papri saha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="papri saha" height="40" width="40" /></a>
-<a href="https://twitter.com/@stylopaps" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="@stylopaps" height="40" width="40" /></a>
-<a href="https://fb.com/papri saha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="papri saha" height="40" width="40" /></a>
-<a href="https://instagram.com/stylo_paps" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="stylo_paps" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/papri-saha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="papri saha" height="40" width="40" /></a>
+<a href="https://twitter.com/stylopaps" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="@stylopaps" height="40" width="40" /></a>
+<a href="https://www.facebook.com/papri.saha.35380" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="papri saha" height="40" width="40" /></a>
+<a href="https://www.instagram.com/stylo_paps/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="stylo_paps" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
