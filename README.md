@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1e2KlbpewJwPOhLqgM_8upndjnlKCFeWn/view?usp=sharing">RESUME</a>
 
-- All of my projects are available at : <a href="https://paprisaha1999.github.io/">PORTFOLIO</a>
+- 🧾 All of my projects are available at : <a href="https://paprisaha1999.github.io/">PORTFOLIO</a>
 
 - ⚡ Fun fact **I am a big foodie 😋**
 
