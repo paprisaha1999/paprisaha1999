@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pjLDnF_PaWvhC0Ojb8iSaEOS52JXOaJ2/view?usp=sharing](https://drive.google.com/file/d/1pjLDnF_PaWvhC0Ojb8iSaEOS52JXOaJ2/view?usp=sharing)
 
-- 🧾 Portfolio - <a herf="https://paprisaha1999.github.io">Portfolio</a>
+- All of my projects are available at : <a href="https://paprisaha1999.github.io">PORTFOLIO</a>
 
 - ⚡ Fun fact **I am a big foodie 😋**
 
