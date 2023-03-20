@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Papri Saha</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
+<br/>
+   <p align="center" color:"red">
+<!--      <a href="https://github.com/soumya0587/readme-typing-svg"> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self PAPRI SAHA 🏽😊; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
+      
+
+<br/>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprisaha1999&label=Profile%20views&color=0e75b6&style=flat" alt="paprisaha1999" /> </p>
